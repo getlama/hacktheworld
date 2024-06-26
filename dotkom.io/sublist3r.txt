@@ -1,0 +1,48 @@
+[91m
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
+
+                # Coded By Ahmed Aboul-Ela - @aboul3la
+    
+[94m[-] Enumerating subdomains now for dotkom.io[0m
+[92m[-] Searching now in Baidu..[0m
+[92m[-] Searching now in Yahoo..[0m
+[92m[-] Searching now in Google..[0m
+[92m[-] Searching now in Bing..[0m
+[92m[-] Searching now in Ask..[0m
+[92m[-] Searching now in Netcraft..[0m
+[92m[-] Searching now in DNSdumpster..[0m
+[92m[-] Searching now in Virustotal..[0m
+[92m[-] Searching now in ThreatCrowd..[0m
+[92m[-] Searching now in SSL Certificates..[0m
+[92m[-] Searching now in PassiveDNS..[0m
+[91m[!] Error: Virustotal probably now is blocking our requests[0m
+[93m[-] Total Unique Subdomains Found: 25[0m
+[92mwww.dotkom.io[0m
+[92makij.dotkom.io[0m
+[92mannotation.dotkom.io[0m
+[92muat.annotation.dotkom.io[0m
+[92mbanglalink.dotkom.io[0m
+[92mbank.dotkom.io[0m
+[92mbeta.dotkom.io[0m
+[92mbhn.dotkom.io[0m
+[92mbkash.dotkom.io[0m
+[92mbrac.dotkom.io[0m
+[92mbracbank.dotkom.io[0m
+[92mcitybank.dotkom.io[0m
+[92mdemo.dotkom.io[0m
+[92mgp.dotkom.io[0m
+[92mgp2.dotkom.io[0m
+[92mmedia.dotkom.io[0m
+[92mmfs.dotkom.io[0m
+[92mrobi.dotkom.io[0m
+[92mrobidemo.dotkom.io[0m
+[92msandbox.dotkom.io[0m
+[92mstatic.dotkom.io[0m
+[92mtelco.dotkom.io[0m
+[92muat.dotkom.io[0m
+[92mvues.dotkom.io[0m
+[92mvuse.dotkom.io[0m
