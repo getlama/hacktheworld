@@ -1,5 +1,18 @@
-all about git: 
+GIT seq: working repo > stage > local repo
 
-git seq: working repo > stage > local repo
+GIT COMMANDS: WORKING REPO > REPO:
 
+git add . === adds everything to stage #best_practise
+git add * === adds only the folder contents to stage
+git add <file_name> === adds only the mentioned file to stage
+git add *.txt === adds all the files tailed with .txt to stage
+
+STAGE > LOCAL REPO:
+
+git commit -m === "INSERT MESSAGE"
+
+
+
+
+git reset --hard === to bring back the removed file.
 
