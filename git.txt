@@ -1,0 +1,5 @@
+all about git: 
+
+git seq: working repo > stage > local repo
+
+
