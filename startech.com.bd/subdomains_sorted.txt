@@ -1,0 +1,10 @@
+autodiscover.startech.com.bd
+clearos.startech.com.bd
+hp.startech.com.bd
+mail.startech.com.bd
+server.startech.com.bd
+service.startech.com.bd
+soft.startech.com.bd
+solution.startech.com.bd
+startech.com.bd
+www.startech.com.bd
